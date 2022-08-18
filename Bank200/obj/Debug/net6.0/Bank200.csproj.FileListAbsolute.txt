@@ -1,0 +1,15 @@
+D:\Documents\CYBAERA\DEV200 Asses\New folder1\Bank200\Bank200\bin\Debug\net6.0\Bank200.exe
+D:\Documents\CYBAERA\DEV200 Asses\New folder1\Bank200\Bank200\bin\Debug\net6.0\Bank200.deps.json
+D:\Documents\CYBAERA\DEV200 Asses\New folder1\Bank200\Bank200\bin\Debug\net6.0\Bank200.runtimeconfig.json
+D:\Documents\CYBAERA\DEV200 Asses\New folder1\Bank200\Bank200\bin\Debug\net6.0\Bank200.dll
+D:\Documents\CYBAERA\DEV200 Asses\New folder1\Bank200\Bank200\bin\Debug\net6.0\Bank200.pdb
+D:\Documents\CYBAERA\DEV200 Asses\New folder1\Bank200\Bank200\obj\Debug\net6.0\Bank200.csproj.AssemblyReference.cache
+D:\Documents\CYBAERA\DEV200 Asses\New folder1\Bank200\Bank200\obj\Debug\net6.0\Bank200.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\CYBAERA\DEV200 Asses\New folder1\Bank200\Bank200\obj\Debug\net6.0\Bank200.AssemblyInfoInputs.cache
+D:\Documents\CYBAERA\DEV200 Asses\New folder1\Bank200\Bank200\obj\Debug\net6.0\Bank200.AssemblyInfo.cs
+D:\Documents\CYBAERA\DEV200 Asses\New folder1\Bank200\Bank200\obj\Debug\net6.0\Bank200.csproj.CoreCompileInputs.cache
+D:\Documents\CYBAERA\DEV200 Asses\New folder1\Bank200\Bank200\obj\Debug\net6.0\Bank200.dll
+D:\Documents\CYBAERA\DEV200 Asses\New folder1\Bank200\Bank200\obj\Debug\net6.0\refint\Bank200.dll
+D:\Documents\CYBAERA\DEV200 Asses\New folder1\Bank200\Bank200\obj\Debug\net6.0\Bank200.pdb
+D:\Documents\CYBAERA\DEV200 Asses\New folder1\Bank200\Bank200\obj\Debug\net6.0\Bank200.genruntimeconfig.cache
+D:\Documents\CYBAERA\DEV200 Asses\New folder1\Bank200\Bank200\obj\Debug\net6.0\ref\Bank200.dll
