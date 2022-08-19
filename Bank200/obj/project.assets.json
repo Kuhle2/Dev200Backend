@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\CYBAERA\\DEV200 Asses\\New folder\\Bank200\\Bank200\\Bank200.csproj",
+      "projectUniqueName": "D:\\Documents\\CYBAERA\\DEV200 Asses\\New folder1\\Bank200\\Bank200\\Bank200.csproj",
       "projectName": "Bank200",
-      "projectPath": "D:\\Documents\\CYBAERA\\DEV200 Asses\\New folder\\Bank200\\Bank200\\Bank200.csproj",
+      "projectPath": "D:\\Documents\\CYBAERA\\DEV200 Asses\\New folder1\\Bank200\\Bank200\\Bank200.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\CYBAERA\\DEV200 Asses\\New folder\\Bank200\\Bank200\\obj\\",
+      "outputPath": "D:\\Documents\\CYBAERA\\DEV200 Asses\\New folder1\\Bank200\\Bank200\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
